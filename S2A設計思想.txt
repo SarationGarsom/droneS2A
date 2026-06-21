@@ -1,0 +1,68 @@
+操作性が良くて安くて設計が簡単なのはいいことなのでKAI型の改良版
+グラフからAlfa=3°
+
+
+
+
+PICOGPLIST
+GP0   URAT TX
+GP1   URAT RX
+
+GND   I2C ADDR
+
+GP2   I2C SDA Arduino
+GP3   I2C SCL Arduino
+GP4
+GP5   FrontCAMservo
+
+GND   GNDzone
+
+GP6   UFR
+GO7   DFR
+GP8   UBR
+GP9   DBR
+
+GND   GNDzone
+
+GP10  UFL
+GP11  DFL
+GP12  UBL
+GP13  DBL
+
+GND   GNDzone
+
+GP14  CRPF
+GP15  CRPB
+
+GP16  PSense RX
+GP17  PSense CSn
+
+GND   PSense GND
+
+GP18  PSense SCK
+GP19  PSense TX
+GP20  
+GP21  
+
+GND
+
+GP22
+
+RUN
+
+GP26
+GP27
+
+GND
+
+GP28
+
+3V   FrontCAMservo
+
+EN
+
+GND
+
+VSYS
+
+VBUS
